@@ -7,6 +7,7 @@ public class Main {
     System.out.println("This is a comment for the stretch challenge!");
     System.out.println("Hi Jacob. This is Valerie.");
     System.out.println("Hi Jacob, my name is Freddy.");
+        System.out.println("Hello Jacob, my name is Darrin.");
 
     }
 }
